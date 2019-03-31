@@ -1,0 +1,6 @@
+How to use "Test.exe"
+
+To start the test, simply hit the enter key.
+Any key after the enter key can be used. 
+Don't worry, the program will wait until you are ready for the next number.
+
